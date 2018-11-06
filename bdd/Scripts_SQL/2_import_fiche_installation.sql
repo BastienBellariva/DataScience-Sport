@@ -33,7 +33,7 @@ CREATE TABLE t_fiche_installation (
     nombre_equipement INT(10)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-LOAD DATA LOCAL INFILE './datascience/equipements/20180110_RES_FichesInstallations.csv'
+LOAD DATA LOCAL INFILE './datascience/equipements/20180110_RES_FichesInstallations_UTF8.csv'
 INTO TABLE t_fiche_installation
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
