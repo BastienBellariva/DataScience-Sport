@@ -31,9 +31,9 @@ CREATE TABLE t_annuaire_asso_club (
     geolocalisation VARCHAR(30)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-LOAD DATA LOCAL INFILE "./datascience/annuaire/annuaire-des-associations-et-clubs-sportifs.csv"
+LOAD DATA LOCAL INFILE "./dataset_import/annuaire/annuaire-des-associations-et-clubs-sportifs_UTF8.csv"
 INTO TABLE t_annuaire_asso_club
 FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
-LINES TERMINATED BY '\r\n'
+LINES TERMINATED BY '\n'
 IGNORE 1 LINES;

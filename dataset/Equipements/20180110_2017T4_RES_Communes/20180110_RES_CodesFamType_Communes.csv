@@ -2,62 +2,62 @@ CodeFamille;Famille;CodeType;Type
 1;Bassin de natation;101;Bassin mixte de natation
 1;Bassin de natation;102;Bassin sportif de natation
 1;Bassin de natation;103;Bassin ludique de natation
-1;Bassin de natation;104;Fosse à plongeon
-1;Bassin de natation;105;Fosse à plongée
-1;Bassin de natation;106;Bassin de réception de toboggan
+1;Bassin de natation;104;Fosse Ã  plongeon
+1;Bassin de natation;105;Fosse Ã  plongÃ©e
+1;Bassin de natation;106;Bassin de rÃ©ception de toboggan
 2;Boulodrome;201;Terrain de boules
-2;Boulodrome;202;Terrain de pétanque
+2;Boulodrome;202;Terrain de pÃ©tanque
 2;Boulodrome;203;Terrain de boules traditionnelles
 3;Bowling;301;Bowling
-4;Circuit/piste de sports mécaniques;401;Circuit de vitesse
-4;Circuit/piste de sports mécaniques;404;Circuit de motocross
-4;Circuit/piste de sports mécaniques;405;Course sur piste
-4;Circuit/piste de sports mécaniques;407;Terrain de trial
-4;Circuit/piste de sports mécaniques;409;Piste de kart
-4;Circuit/piste de sports mécaniques;410;Terrain de moto-ball
+4;Circuit/piste de sports mÃ©caniques;401;Circuit de vitesse
+4;Circuit/piste de sports mÃ©caniques;404;Circuit de motocross
+4;Circuit/piste de sports mÃ©caniques;405;Course sur piste
+4;Circuit/piste de sports mÃ©caniques;407;Terrain de trial
+4;Circuit/piste de sports mÃ©caniques;409;Piste de kart
+4;Circuit/piste de sports mÃ©caniques;410;Terrain de moto-ball
 5;Court de tennis;501;Court de tennis
 6;Equipement de cyclisme;601;Anneau / piste de cyclisme
 6;Equipement de cyclisme;603;Espace trial
 6;Equipement de cyclisme;604;Piste de bicross
 6;Equipement de cyclisme;605;Piste de descente
-6;Equipement de cyclisme;606;Relais rando-vélo
-6;Equipement de cyclisme;607;Vélodrome
+6;Equipement de cyclisme;606;Relais rando-vÃ©lo
+6;Equipement de cyclisme;607;VÃ©lodrome
 6;Equipement de cyclisme;608;Terrain de cyclocross
 7;Equipement & piste de ski;701;Domaine de ski alpin
-7;Equipement & piste de ski;703;Tremplin à ski
+7;Equipement & piste de ski;703;Tremplin Ã  ski
 7;Equipement & piste de ski;704;Piste de ski indoor
 7;Equipement & piste de ski;705;Domaine nordique
 7;Equipement & piste de ski;706;Piste de luge
-8;Equipement d'activités de forme et de santé;801;Salle de cours collectifs
-8;Equipement d'activités de forme et de santé;802;Salle de musculation/cardiotraining
-8;Equipement d'activités de forme et de santé;803;Bassin d'exercices aquatiques
-9;Equipement équestre;901;Carrière
-9;Equipement équestre;902;Carrière de dressage/rond de longe
-9;Equipement équestre;903;Manège
-9;Equipement équestre;904;Parcours d'obstacle
-9;Equipement équestre;905;Piste de course sur le plat
-9;Equipement équestre;906;Structure de tourisme équestre
-9;Equipement équestre;907;Terrain de horse-ball
-9;Equipement équestre;908;Terrain de polo
-9;Equipement équestre;909;Parcours de cross
-10;Equipement d'athlétisme;1001;Stade d’athlétisme
-10;Equipement d'athlétisme;1002;Aire de lancer
-10;Equipement d'athlétisme;1003;Aire de saut
-10;Equipement d'athlétisme;1004;Piste d'athlétisme isolée
+8;Equipement d'activitÃ©s de forme et de santÃ©;801;Salle de cours collectifs
+8;Equipement d'activitÃ©s de forme et de santÃ©;802;Salle de musculation/cardiotraining
+8;Equipement d'activitÃ©s de forme et de santÃ©;803;Bassin d'exercices aquatiques
+9;Equipement Ã©questre;901;CarriÃ¨re
+9;Equipement Ã©questre;902;CarriÃ¨re de dressage/rond de longe
+9;Equipement Ã©questre;903;ManÃ¨ge
+9;Equipement Ã©questre;904;Parcours d'obstacle
+9;Equipement Ã©questre;905;Piste de course sur le plat
+9;Equipement Ã©questre;906;Structure de tourisme Ã©questre
+9;Equipement Ã©questre;907;Terrain de horse-ball
+9;Equipement Ã©questre;908;Terrain de polo
+9;Equipement Ã©questre;909;Parcours de cross
+10;Equipement d'athlÃ©tisme;1001;Stade dÂ’athlÃ©tisme
+10;Equipement d'athlÃ©tisme;1002;Aire de lancer
+10;Equipement d'athlÃ©tisme;1003;Aire de saut
+10;Equipement d'athlÃ©tisme;1004;Piste d'athlÃ©tisme isolÃ©e
 11;Mur et fronton;1101;Mur ou fronton mixte
-11;Mur et fronton;1102;Mur à gauche
+11;Mur et fronton;1102;Mur Ã  gauche
 11;Mur et fronton;1103;Fronton place libre
 11;Mur et fronton;1104;Trinquet
 11;Mur et fronton;1105;Mur de tennis
-11;Mur et fronton;1106;Jaï-Laï
+11;Mur et fronton;1106;JaÃ¯-LaÃ¯
 12;Parcours de golf;1201;Parcours d'initiation
 12;Parcours de golf;1202;Parcours 18 trous
 12;Parcours de golf;1204;Parcours 9 trous
 12;Parcours de golf;1205;Practice
 12;Parcours de golf;1206;Swingolf
-13;Parcours sportif/santé;1301;Parcours sportif/santé
-14;Pas de tir;1401;Pas de tir à l'arc
-14;Pas de tir;1402;Pas de tir à la cible
+13;Parcours sportif/santÃ©;1301;Parcours sportif/santÃ©
+14;Pas de tir;1401;Pas de tir Ã  l'arc
+14;Pas de tir;1402;Pas de tir Ã  la cible
 14;Pas de tir;1403;Pas de tir aux plateaux
 15;Aire de sports de glaces;1501;Aire de sports de glace sportive
 15;Aire de sports de glaces;1503;Aire de sports de glace ludique
@@ -66,98 +66,98 @@ CodeFamille;Famille;CodeType;Type
 15;Aire de sports de glaces;1506;Salle de curling
 16;Plaine de jeux;1601;Plaine de jeux
 17;Plateau EPS;1701;Plateau EPS/Multisports
-17;Plateau EPS;1702;But/panier isolé de sport collectif
+17;Plateau EPS;1702;But/panier isolÃ© de sport collectif
 18;Salle de combat;1801;Dojo / Salle d'arts martiaux
 18;Salle de combat;1802;Salle de boxe
 19;Salle multisports;1901;Salle multisports
-21;Salle ou terrain spécialisé;2101;Salle de basket
-21;Salle ou terrain spécialisé;2102;Salle de beach-Volley
-21;Salle ou terrain spécialisé;2103;Salle de billard
-21;Salle ou terrain spécialisé;2104;Salle de culturisme
-21;Salle ou terrain spécialisé;2105;Salle de danse
-21;Salle ou terrain spécialisé;2106;Salle de gymnastique sportive
-21;Salle ou terrain spécialisé;2107;Salle de handball
-21;Salle ou terrain spécialisé;2108;Salle de lutte
-21;Salle ou terrain spécialisé;2109;Salle de patinage sur roulette
-21;Salle ou terrain spécialisé;2110;Salle de raquetball
-21;Salle ou terrain spécialisé;2111;Salle de tennis de table
-21;Salle ou terrain spécialisé;2112;Salle de trampoline
-21;Salle ou terrain spécialisé;2113;Salle de volley ball
-21;Salle ou terrain spécialisé;2114;Salle d'échecs
-21;Salle ou terrain spécialisé;2115;Salle d'escrime
-21;Salle ou terrain spécialisé;2116;Salle d'haltérophilie
-21;Salle ou terrain spécialisé;2117;Salle ou terrain de squash
-21;Salle ou terrain spécialisé;2118;Terrain de paddle
-21;Salle ou terrain spécialisé;2119;Salle ou terrain de badminton
-21;Salle ou terrain spécialisé;2123;Terrain de quilles
-21;Salle ou terrain spécialisé;2124;Terrain de balle au tambourin
-21;Salle ou terrain spécialisé;2125;Salle ou terrain de paintball
-21;Salle ou terrain spécialisé;2126;Salle ou terrain de jorkyball
-21;Salle ou terrain spécialisé;2127;Terrain de ballon au poing/long paume
-21;Salle ou terrain spécialisé;2128;Terrain de soccer
-22;Salle non spécialisée;2201;Salles polyvalentes / des fêtes / non spécialisées
-23;Site d'activités aériennes;2301;Aire mixte (décollage et atterissage)
-23;Site d'activités aériennes;2302;Aire de décollage
-23;Site d'activités aériennes;2303;Aire d'atterrissage
-23;Site d'activités aériennes;2304;Piste d’aérodrome / d'aéroport
-23;Site d'activités aériennes;2305;Site d'aérostation
-23;Site d'activités aériennes;2306;Piste ULM
-23;Site d'activités aériennes;2307;Site de glisse aérotractée
-24;Site d'activités aquatiques et nautiques;2401;Site d'activités aquatiques et nautiques
-24;Site d'activités aquatiques et nautiques;2402;Baignade aménagée
-24;Site d'activités aquatiques et nautiques;2403;Circuit de motonautisme
-24;Site d'activités aquatiques et nautiques;2404;Stade de ski nautique
-24;Site d'activités aquatiques et nautiques;2405;Stade d’eau vive
-24;Site d'activités aquatiques et nautiques;2406;Stade d’aviron
-24;Site d'activités aquatiques et nautiques;2407;Stade de canoë-kayak de vitesse
-24;Site d'activités aquatiques et nautiques;2408;Stade mixte
-24;Site d'activités aquatiques et nautiques;2409;Terrain de kayak polo
-24;Site d'activités aquatiques et nautiques;2410;Point d'embarquement et de débarquement isolé
-24;Site d'activités aquatiques et nautiques;2414;Site de plongée
-24;Site d'activités aquatiques et nautiques;2415;Tank à ramer
-24;Site d'activités aquatiques et nautiques;2416;Téléski nautique
-24;Site d'activités aquatiques et nautiques;2417;Port de plaisance
-24;Site d'activités aquatiques et nautiques;2418;Zone de mouillage
-24;Site d'activités aquatiques et nautiques;2419;Dispositif de franchissement
-24;Site d'activités aquatiques et nautiques;2420;Site de pêche
-25;Site de modélisme;2501;Site de modélisme automobile
-25;Site de modélisme;2502;Site de voile radio commandée
-25;Site de modélisme;2503;Site d'aéromodélisme
-25;Site de modélisme;2504;Site de modèle réduit (motonautisme)
-26;Skate park & vélo Freestyle;2601;Anneau de Roller
-26;Skate park & vélo Freestyle;2602;Espace de vélo-freestyle
-26;Skate park & vélo Freestyle;2603;Skate park
+21;Salle ou terrain spÃ©cialisÃ©;2101;Salle de basket
+21;Salle ou terrain spÃ©cialisÃ©;2102;Salle de beach-Volley
+21;Salle ou terrain spÃ©cialisÃ©;2103;Salle de billard
+21;Salle ou terrain spÃ©cialisÃ©;2104;Salle de culturisme
+21;Salle ou terrain spÃ©cialisÃ©;2105;Salle de danse
+21;Salle ou terrain spÃ©cialisÃ©;2106;Salle de gymnastique sportive
+21;Salle ou terrain spÃ©cialisÃ©;2107;Salle de handball
+21;Salle ou terrain spÃ©cialisÃ©;2108;Salle de lutte
+21;Salle ou terrain spÃ©cialisÃ©;2109;Salle de patinage sur roulette
+21;Salle ou terrain spÃ©cialisÃ©;2110;Salle de raquetball
+21;Salle ou terrain spÃ©cialisÃ©;2111;Salle de tennis de table
+21;Salle ou terrain spÃ©cialisÃ©;2112;Salle de trampoline
+21;Salle ou terrain spÃ©cialisÃ©;2113;Salle de volley ball
+21;Salle ou terrain spÃ©cialisÃ©;2114;Salle d'Ã©checs
+21;Salle ou terrain spÃ©cialisÃ©;2115;Salle d'escrime
+21;Salle ou terrain spÃ©cialisÃ©;2116;Salle d'haltÃ©rophilie
+21;Salle ou terrain spÃ©cialisÃ©;2117;Salle ou terrain de squash
+21;Salle ou terrain spÃ©cialisÃ©;2118;Terrain de paddle
+21;Salle ou terrain spÃ©cialisÃ©;2119;Salle ou terrain de badminton
+21;Salle ou terrain spÃ©cialisÃ©;2123;Terrain de quilles
+21;Salle ou terrain spÃ©cialisÃ©;2124;Terrain de balle au tambourin
+21;Salle ou terrain spÃ©cialisÃ©;2125;Salle ou terrain de paintball
+21;Salle ou terrain spÃ©cialisÃ©;2126;Salle ou terrain de jorkyball
+21;Salle ou terrain spÃ©cialisÃ©;2127;Terrain de ballon au poing/long paume
+21;Salle ou terrain spÃ©cialisÃ©;2128;Terrain de soccer
+22;Salle non spÃ©cialisÃ©e;2201;Salles polyvalentes / des fÃªtes / non spÃ©cialisÃ©es
+23;Site d'activitÃ©s aÃ©riennes;2301;Aire mixte (dÃ©collage et atterissage)
+23;Site d'activitÃ©s aÃ©riennes;2302;Aire de dÃ©collage
+23;Site d'activitÃ©s aÃ©riennes;2303;Aire d'atterrissage
+23;Site d'activitÃ©s aÃ©riennes;2304;Piste dÂ’aÃ©rodrome / d'aÃ©roport
+23;Site d'activitÃ©s aÃ©riennes;2305;Site d'aÃ©rostation
+23;Site d'activitÃ©s aÃ©riennes;2306;Piste ULM
+23;Site d'activitÃ©s aÃ©riennes;2307;Site de glisse aÃ©rotractÃ©e
+24;Site d'activitÃ©s aquatiques et nautiques;2401;Site d'activitÃ©s aquatiques et nautiques
+24;Site d'activitÃ©s aquatiques et nautiques;2402;Baignade amÃ©nagÃ©e
+24;Site d'activitÃ©s aquatiques et nautiques;2403;Circuit de motonautisme
+24;Site d'activitÃ©s aquatiques et nautiques;2404;Stade de ski nautique
+24;Site d'activitÃ©s aquatiques et nautiques;2405;Stade dÂ’eau vive
+24;Site d'activitÃ©s aquatiques et nautiques;2406;Stade dÂ’aviron
+24;Site d'activitÃ©s aquatiques et nautiques;2407;Stade de canoÃ«-kayak de vitesse
+24;Site d'activitÃ©s aquatiques et nautiques;2408;Stade mixte
+24;Site d'activitÃ©s aquatiques et nautiques;2409;Terrain de kayak polo
+24;Site d'activitÃ©s aquatiques et nautiques;2410;Point d'embarquement et de dÃ©barquement isolÃ©
+24;Site d'activitÃ©s aquatiques et nautiques;2414;Site de plongÃ©e
+24;Site d'activitÃ©s aquatiques et nautiques;2415;Tank Ã  ramer
+24;Site d'activitÃ©s aquatiques et nautiques;2416;TÃ©lÃ©ski nautique
+24;Site d'activitÃ©s aquatiques et nautiques;2417;Port de plaisance
+24;Site d'activitÃ©s aquatiques et nautiques;2418;Zone de mouillage
+24;Site d'activitÃ©s aquatiques et nautiques;2419;Dispositif de franchissement
+24;Site d'activitÃ©s aquatiques et nautiques;2420;Site de pÃªche
+25;Site de modÃ©lisme;2501;Site de modÃ©lisme automobile
+25;Site de modÃ©lisme;2502;Site de voile radio commandÃ©e
+25;Site de modÃ©lisme;2503;Site d'aÃ©romodÃ©lisme
+25;Site de modÃ©lisme;2504;Site de modÃ¨le rÃ©duit (motonautisme)
+26;Skate park & vÃ©lo Freestyle;2601;Anneau de Roller
+26;Skate park & vÃ©lo Freestyle;2602;Espace de vÃ©lo-freestyle
+26;Skate park & vÃ©lo Freestyle;2603;Skate park
 27;Structure Artificielle d'Escalade;2701;Structure Artificielle d'Escalade
 27;Structure Artificielle d'Escalade;2702;Salle de blocs artificiels d'escalade
 28;Terrain de grands jeux;2801;Terrain mixte
 28;Terrain de grands jeux;2802;Terrain de football
 28;Terrain de grands jeux;2803;Terrain de rugby
-28;Terrain de grands jeux;2804;Terrain de football américain
-28;Terrain de grands jeux;2805;Terrain de rugby à XIII
+28;Terrain de grands jeux;2804;Terrain de football amÃ©ricain
+28;Terrain de grands jeux;2805;Terrain de rugby Ã  XIII
 28;Terrain de grands jeux;2806;Terrain de baseball /softball
 28;Terrain de grands jeux;2808;Terrain de cricket
 28;Terrain de grands jeux;2809;Terrain de hockey sur gazon
-29;Terrain extérieur de petits jeux collectifs;2901;Terrain de basket-ball
-29;Terrain extérieur de petits jeux collectifs;2902;Terrain de beach-volley
-29;Terrain extérieur de petits jeux collectifs;2903;Terrain de handball
-29;Terrain extérieur de petits jeux collectifs;2904;Terrain de volley-ball
-30;Divers équipements Sports de nature;3001;Canyon
-30;Divers équipements Sports de nature;3002;Equipement pour saut à l’élastique
-30;Divers équipements Sports de nature;3003;Parcours Acrobatique en Hauteur/Site d'accrobranche
-30;Divers équipements Sports de nature;3004;Parcours de chasse / en campagne
-30;Divers équipements Sports de nature;3005;Parcours fixe de course d’orientation
-30;Divers équipements Sports de nature;3006;Piste de pulka / traineau à chiens
-30;Divers équipements Sports de nature;3007;Site d'escalade en falaise
-30;Divers équipements Sports de nature;3008;Site de spéléologie sportive et/ou éducative
-30;Divers équipements Sports de nature;3009;Site de char à voile
-30;Divers équipements Sports de nature;3010;Via ferrata / Via corda
-30;Divers équipements Sports de nature;3011;Refuge de montagne
-30;Divers équipements Sports de nature;3012;Boucle de randonnée
-30;Divers équipements Sports de nature;3013;Cascade de glace
-30;Divers équipements Sports de nature;3014;Site de blocs d'escalade
-30;Divers équipements Sports de nature;3015;Espace de pratique spéléologique
-31;Divers équipements;3101;Arènes
-31;Divers équipements;3104;Club de plage
-31;Divers équipements;3106;Salle de spectacle / Zenith
-31;Divers équipements;3107;Hippodrome
-31;Divers équipements;3108;Simulateur de chute libre
+29;Terrain extÃ©rieur de petits jeux collectifs;2901;Terrain de basket-ball
+29;Terrain extÃ©rieur de petits jeux collectifs;2902;Terrain de beach-volley
+29;Terrain extÃ©rieur de petits jeux collectifs;2903;Terrain de handball
+29;Terrain extÃ©rieur de petits jeux collectifs;2904;Terrain de volley-ball
+30;Divers Ã©quipements Sports de nature;3001;Canyon
+30;Divers Ã©quipements Sports de nature;3002;Equipement pour saut Ã  lÂ’Ã©lastique
+30;Divers Ã©quipements Sports de nature;3003;Parcours Acrobatique en Hauteur/Site d'accrobranche
+30;Divers Ã©quipements Sports de nature;3004;Parcours de chasse / en campagne
+30;Divers Ã©quipements Sports de nature;3005;Parcours fixe de course dÂ’orientation
+30;Divers Ã©quipements Sports de nature;3006;Piste de pulka / traineau Ã  chiens
+30;Divers Ã©quipements Sports de nature;3007;Site d'escalade en falaise
+30;Divers Ã©quipements Sports de nature;3008;Site de spÃ©lÃ©ologie sportive et/ou Ã©ducative
+30;Divers Ã©quipements Sports de nature;3009;Site de char Ã  voile
+30;Divers Ã©quipements Sports de nature;3010;Via ferrata / Via corda
+30;Divers Ã©quipements Sports de nature;3011;Refuge de montagne
+30;Divers Ã©quipements Sports de nature;3012;Boucle de randonnÃ©e
+30;Divers Ã©quipements Sports de nature;3013;Cascade de glace
+30;Divers Ã©quipements Sports de nature;3014;Site de blocs d'escalade
+30;Divers Ã©quipements Sports de nature;3015;Espace de pratique spÃ©lÃ©ologique
+31;Divers Ã©quipements;3101;ArÃ¨nes
+31;Divers Ã©quipements;3104;Club de plage
+31;Divers Ã©quipements;3106;Salle de spectacle / Zenith
+31;Divers Ã©quipements;3107;Hippodrome
+31;Divers Ã©quipements;3108;Simulateur de chute libre
